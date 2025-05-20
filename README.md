@@ -22,8 +22,13 @@ When you run the program:
    - Balance left
 4. You can also get all the transactions
 
-![Screenshot 2025-05-20 213248](https://github.com/user-attachments/assets/48c35cec-b0f5-46e4-846a-c32c31359eed)
-![Screenshot 2025-05-20 213216](https://github.com/user-attachments/assets/ee098d2f-f30a-4264-a982-b08b04e23f61)
-![Screenshot 2025-05-20 213428](https://github.com/user-attachments/assets/b957a633-c5b9-4fcc-b907-f38e2328bf0e)
-![Screenshot 2025-05-20 213329](https://github.com/user-attachments/assets/03a91590-9158-4e5c-b20b-072b32e0475d)
-![Screenshot 2025-05-20 213310](https://github.com/user-attachments/assets/af22372f-e1c7-445f-973e-55bb442d7bed)
+
+![Screenshot 2025-05-20 213216](https://github.com/user-attachments/assets/f1d96c92-3f8b-48f1-bb2d-f1a77972ae8a)
+![Screenshot 2025-05-20 213248](https://github.com/user-attachments/assets/85f0da4d-1d8f-4a42-90eb-2d8b27790291)
+![Screenshot 2025-05-20 213310](https://github.com/user-attachments/assets/e697a88c-86f1-40bb-ba19-338fec1f9f0a)
+![Screenshot 2025-05-20 213329](https://github.com/user-attachments/assets/be2ea0db-3c8a-489a-8c2d-3452b7eb260a)
+![Screenshot 2025-05-20 213428](https://github.com/user-attachments/assets/e21a57e0-0ad5-46e8-a6ad-b26fad8ea7ec)
+
+
+
+
