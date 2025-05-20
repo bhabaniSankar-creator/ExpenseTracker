@@ -1,0 +1,9 @@
+Transaction,Category,Amount,Date
+income,Salary,25000.0,2025-01-10
+expense,travel,7000.0,2025-01-15
+expense,food,3500.0,2025-01-18
+income,Business,50000.0,2025-05-10
+expense,Gym,1500.0,2025-05-06
+income,Rent,12000.0,2025-02-18
+expense,Gym,600.0,2025-02-11
+expense,movie,500.0,2025-02-09
